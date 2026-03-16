@@ -11,7 +11,7 @@ Dataset is taken from Kaggle.
 
 County shapefiles needed to reproduce the report:
 
-Download the folder from this repository, or download it directly from the link below.
+Download it directly from the link below.
 
 Year: 2015
 Layer type: Counties (or equivalent)
